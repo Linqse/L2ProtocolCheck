@@ -1,4 +1,5 @@
 # L2ProtocolCheck
+Lineage 2 Protocol Version Checker, simple for use.
 
 Drop exe in system directory or drop Engine.dll on exe file. 
 
