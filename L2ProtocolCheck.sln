@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{1E27FD51-F656-4259-B660-BABF7EC710CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2ProtocolCheck", "L2ProtocolCheck\L2ProtocolCheck.csproj", "{1E27FD51-F656-4259-B660-BABF7EC710CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
