@@ -1,0 +1,6 @@
+C:\Users\linqse\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\linqse\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\linqse\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\L2ProtocolCheck.exe
+C:\Users\linqse\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\L2ProtocolCheck.pdb
+C:\Users\linqse\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\L2ProtocolCheck.exe
+C:\Users\linqse\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\L2ProtocolCheck.pdb
